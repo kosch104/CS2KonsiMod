@@ -1,4 +1,4 @@
-﻿# Getting started with Cities Skylines II Modding
+# Getting started with Cities Skylines II Modding
 
 
 ## Requisites
